@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krathi2k3
 - 👀 I’m interested in Java Devlopement
 - 🌱 I’m currently learning Frontend Devlopement
-- 📫 How to reach me via my mail
+- 📫 How to reach me : mail me on khushi.rathi2003@gmail.com
 
 <!---
 krathi2k3/krathi2k3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
