@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krathi2k3
-- 👀 I’m interested in Java Devlopement
+- 👀 I’m interested in Web Devlopement
 - 🌱 I’m currently learning Frontend Devlopement
 - 📫 How to reach me : mail me on khushi.rathi2003@gmail.com
 
