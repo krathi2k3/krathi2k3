@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Frontend Devlopement
 - 📫 How to reach me : mail me on khushi.rathi2003@gmail.com
 
-<img src="https://DOMAIN_OF_YOUR_VERCEL_APP.vercel.app/?">
+<img src="https://apple-music-readme-liart.vercel.app/">
 
 <!---
 krathi2k3/krathi2k3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
