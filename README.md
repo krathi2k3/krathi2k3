@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krathi2k3
+- 👋 Hi, I’m Khushi Rathi
 - 👀 I’m interested in Web Devlopement
 - 🌱 I’m currently learning Frontend Devlopement
 - 📫 How to reach me : mail me on khushi.rathi2003@gmail.com
