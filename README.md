@@ -1,3 +1,7 @@
+![MasterHead](https://i.pinimg.com/originals/f2/60/1e/f2601e023e82f19058c9efb7db2c9485.gif)
+
+
+
 <h1 align="center">Hi 👋, I'm Khushi Rathi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
