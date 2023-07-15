@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khushi Rathi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **khushi.rathi2003@gmail.com**
 
